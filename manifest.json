@@ -1,0 +1,19 @@
+{
+  "name": "KOSKİ Dilekçe ve Bilgi Edinme Takip",
+  "short_name": "Dilekçe Takip",
+  "description": "KOSKİ 10. Bölge Şube Müdürlüğü dilekçe ve bilgi edinme başvuru takip sistemi",
+  "start_url": "./index.html",
+  "scope": "./",
+  "id": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#EEF1EC",
+  "theme_color": "#16302B",
+  "lang": "tr",
+  "icons": [
+    { "src": "https://raw.githubusercontent.com/talhaadr-collab/muracaat-takip/main/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "https://raw.githubusercontent.com/talhaadr-collab/muracaat-takip/main/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "https://raw.githubusercontent.com/talhaadr-collab/muracaat-takip/main/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "https://raw.githubusercontent.com/talhaadr-collab/muracaat-takip/main/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
